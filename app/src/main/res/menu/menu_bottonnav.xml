@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemUp"
+        android:title="Like"
+        android:icon="@drawable/ic_thumb_up_black_24dp"/>
+    <item
+        android:id="@+id/itemDown"
+        android:title="Dislike"
+        android:icon="@drawable/ic_thumb_down_black_24dp"/>
+
+</menu>
